@@ -1,0 +1,10 @@
+.UserOutput {
+  font-family: Raleway;
+  border: 1px solid #eee;
+  border-radius: 15px;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 16px;
+  text-align: center;
+  width: 50%;
+  margin: 15px auto;
+}
